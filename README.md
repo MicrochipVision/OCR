@@ -19,7 +19,7 @@ This project is used by the following individual:
 
 ## Support 💁🏻‍♂️
 
-For support, email `saifislam23122005@gmail.com` or join `facebook` community.(●'◡'●)
+For support, email `microchipvision@gmail.com` or join `facebook` community.(●'◡'●)
 
 
 ## Features 🙌🏻
